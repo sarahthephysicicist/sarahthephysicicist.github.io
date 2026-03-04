@@ -1,7 +1,7 @@
-# Welcome to My Site
+# Welcome! I'm Sarah the Physicicist
 
-I work on superconductivity and quantum materials.
+I'm a researcher in condensed matter physics and an aspiring science communicator. 
 
-This site showcases my research, blog posts, and contact info.
+I made this website to have all my links, contact info and resources in one, handy-dandy place.
 
-This site is under construction.
+I periodically post notes/ explainers here to do with physics, so keep checking back. Youc an also find my socials via the links below. 
