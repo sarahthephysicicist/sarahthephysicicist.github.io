@@ -11,22 +11,24 @@
   </head>
   <body>
     <div class="site-wrapper">
-      <!-- Sidebar -->
+
+      <!-- Header with horizontal menu -->
       <header class="site-header">
-          <h1 class="site-title">{{ site.title }}</h1>
-          <nav class="site-nav">
-        <ul>
-      {% for item in site.nav %}
-          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-      {% endfor %}
-        </ul>
-  </nav>
-</header>
+        <h1 class="site-title">{{ site.title }}</h1>
+        <nav class="site-nav">
+          <ul>
+            {% for item in site.nav %}
+              <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </header>
 
       <!-- Main content -->
       <main class="site-main">
         {{ content }}
       </main>
+
     </div>
 
     <!-- Footer -->
@@ -35,3 +37,4 @@
     </footer>
   </body>
 </html>
+
