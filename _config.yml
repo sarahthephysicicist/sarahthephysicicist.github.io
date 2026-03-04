@@ -5,3 +5,10 @@ email: contact@sarahthephysicicist.com
 
 theme: jekyll-theme-dinky
 
+# Pages to show in navigation
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+
