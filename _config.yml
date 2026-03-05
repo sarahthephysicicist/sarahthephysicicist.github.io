@@ -5,6 +5,9 @@ email: contact@sarahthephysicicist.com
 
 theme: jekyll-theme-dinky
 
+# Load custom stylesheet
+custom_css: assets/css/custom.css
+
 # Pages to show in navigation
 nav:
   - title: Home
