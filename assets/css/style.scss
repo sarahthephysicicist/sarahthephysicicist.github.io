@@ -7,12 +7,12 @@
 
 /* Sidebar background */
 header {
-  background-color: #0f172a;   /* dark blue example */
+  background-color: #230F2A;   /* Sidebar Background */
 }
 
 /* Title text ("Sarah the Physicist") */
 header h1 {
-  color: #ffffff;
+  color: #E3CBEC;
 }
 
 /* Subtitle text */
@@ -27,12 +27,12 @@ header nav a {
 
 /* Navigation link hover */
 header nav a:hover {
-  color: #38bdf8;
+  color: #B49AFC;
 }
 
 /* Navigation buttons */
 header nav ul li {
-  background: #1e293b;
+  background: #FFE085;
   border-radius: 6px;
   margin-bottom: 8px;
   padding: 6px 10px;
@@ -40,6 +40,6 @@ header nav ul li {
 
 /* Hover effect for buttons */
 header nav ul li:hover {
-  background: #334155;
+  background: #503355;
 }
 
