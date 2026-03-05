@@ -3,32 +3,43 @@
 
 @import "{{ site.theme }}";
 
-/* ========================= */
-/* Your custom CSS starts here */
-/* ========================= */
+/* ===== Sidebar styling ===== */
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.6;
+/* Sidebar background */
+header {
+  background-color: #0f172a;   /* dark blue example */
 }
 
-h1, h2, h3 {
-  letter-spacing: -0.02em;
-}
-
-.wrapper {
-  max-width: 900px;
-}
-
+/* Title text ("Sarah the Physicist") */
 header h1 {
-  font-size: 36px;
+  color: #ffffff;
 }
 
-a {
-  color: #2a7ae2;
+/* Subtitle text */
+header p {
+  color: #cbd5e1;
 }
 
-a:hover {
-  text-decoration: underline;
+/* Navigation links */
+header nav a {
+  color: #ffffff;
 }
+
+/* Navigation link hover */
+header nav a:hover {
+  color: #38bdf8;
+}
+
+/* Navigation buttons */
+header nav ul li {
+  background: #1e293b;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  padding: 6px 10px;
+}
+
+/* Hover effect for buttons */
+header nav ul li:hover {
+  background: #334155;
+}
+
