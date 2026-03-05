@@ -5,13 +5,11 @@ email: contact@sarahthephysicicist.com
 
 theme: jekyll-theme-dinky
 
-# Load custom stylesheet
-custom_css: _assets/css/custom.css
- 
-# Pages to show in navigation
+url: "https://sarahthephysicicist.github.io"
+baseurl: ""
+
 nav:
   - title: Home
     url: /
   - title: About
     url: /about
-
