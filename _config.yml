@@ -7,7 +7,7 @@ theme: jekyll-theme-dinky
 
 # Load custom stylesheet
 custom_css: _assets/css/custom.css
-
+ 
 # Pages to show in navigation
 nav:
   - title: Home
