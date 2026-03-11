@@ -3,6 +3,8 @@ title: Contact
 nav_order: 3
 ---
 
+# Contact Sarah
+
 If you want to contact me, emailing contact@sarahthephysicicist.com is the best way to do it. Remember that it's physicicist, not physicist!!
 
 I'm cool with people asking me questions about physics, fire away! It's pretty often that kids contact me looking for help with a school project, and I love diong it. Keep that coming <3
